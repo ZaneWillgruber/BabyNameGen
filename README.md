@@ -12,6 +12,8 @@ Around 1 hour
 
 HTML CSS TYPESCRIPT VUE3 NUXT3
 
+# Instalation
+
 ## Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
