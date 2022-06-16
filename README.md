@@ -1,4 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Baby Name Generator
+
+## Overview
+
+This project was followed from a tutorial to give me an introduction to Nuxt3. I learned a lot about how Nuxt and Vue works.
+
+## Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
@@ -25,7 +31,7 @@ Build the application for production:
 npm run build
 ```
 
-## Locally preview production build
+## Locally preview production build:
 
 ```bash
 npm run preview
