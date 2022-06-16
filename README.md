@@ -4,6 +4,10 @@
 
 This project was followed from a tutorial to give me an introduction to Nuxt3. I learned a lot about how Nuxt and Vue works.
 
+## Frameworks and Languages
+
+HTML CSS TYPESCRIPT VUE3 NUXT3
+
 ## Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
