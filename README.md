@@ -1,6 +1,10 @@
-# temp
+# Nuxt 3 Minimal Starter
 
-## Project setups
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+## Setup
+
+Make sure to install the dependencies:
 ```
 npm install
 ```
