@@ -4,6 +4,10 @@
 
 This project was followed from a tutorial to give me an introduction to Nuxt3. I learned a lot about how Nuxt and Vue works.
 
+## Time Taken
+
+Around 1 hour
+
 ## Frameworks and Languages
 
 HTML CSS TYPESCRIPT VUE3 NUXT3
