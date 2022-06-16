@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was followed from a tutorial to give me an introduction to Nuxt3. I learned a lot about how Nuxt and Vue works.
+This project was followed from a [tutorial](https://www.youtube.com/watch?v=dZC4T4UiU1c&t=749s) to give me an introduction to Nuxt3. I learned a lot about how Nuxt and Vue works.
 
 ## Time Taken
 
